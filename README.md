@@ -1,2 +1,2 @@
-Localizador de archivos security.txt
+Localizador de archivos security.txt  
 Descargar y ejecutar localmente.
